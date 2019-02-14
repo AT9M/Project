@@ -3,3 +3,5 @@ http://www.csounds.com/journal/issue18/beagle_pi.html
 https://elements.envato.com/audio/vocals-no-vocals
 
 https://stackoverflow.com/questions/9419263/playing-audio-with-javascript
+
+https://github.com/julianduque/beaglebone-io
